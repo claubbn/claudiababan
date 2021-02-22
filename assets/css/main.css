@@ -2157,9 +2157,6 @@ input, select, textarea {
 	display: flex; 
 	justify-content: center;
 }
-h6{
-	margin-top:25px;
-}
 /* Footer */
 
 	#footer {
